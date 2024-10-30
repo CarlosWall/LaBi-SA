@@ -1,1 +1,1 @@
-# LaBi-SA
+intranet-login
